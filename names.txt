@@ -1,0 +1,3 @@
+this file contains of some name
+hello world
+this is names.txt
